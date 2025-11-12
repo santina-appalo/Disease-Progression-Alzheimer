@@ -66,14 +66,6 @@ The CNN model was designed and trained to process grayscale MRI images. The arch
 - **Classification Report**
 
 
-## 🖼 Screenshots
-
-Add screenshots of the interface, charts, or results:
-```
-![Model Accuracy](screenshots/accuracy_plot.png)
-![Prediction Sample](screenshots/prediction_sample.png)
-```
-
 ## 🔮 Future Improvements
 
 - Hyperparameter tuning with learning rate schedulers
